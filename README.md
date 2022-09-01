@@ -1,7 +1,7 @@
-Nama 	: Raden Mohamad Adrian Ramadhan Hendar Wibawa \
+Nama 	: Raden Mohamad Adrian Ramadhan Hendar Wibawa 
 
-NPM  	: 2106750540 \
+NPM  	: 2106750540 
 
-Kelas	: C \
+Kelas	: C 
 
-Hobi  : Ngoding \
+Hobi  : Ngoding 
